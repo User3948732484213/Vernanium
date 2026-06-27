@@ -13,7 +13,7 @@ Vernanium - это Python скрипт, предназначенный для и
 
 Запуск:
 
-1. Скачать "vernanium_bin_xor.py".
+1. Скачать "vernanium_bin_xor.py" или "vernanium_hex_xor.py".
 
 2. Открыть этот файл через редактор кода.
 
